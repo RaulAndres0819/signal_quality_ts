@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.12.8",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "dataframe-js": "^1.4.4",
+    "dsp.js": "^1.0.1",
+    "fft-js": "^0.0.12",
+    "fs": "^0.0.1-security",
+    "numpy": "^0.0.1",
+    "pandas": "^0.0.3",
+    "pickle": "^0.2.0",
+    "scipy": "^0.1.4",
+    "simple-statistics": "^7.8.3",
+    "sklearn": "^0.4.0",
+    "timeseries-analysis": "^1.0.12"
+  }
+}
